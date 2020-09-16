@@ -1,0 +1,22 @@
+{
+  "name": "staq-react-native-example",
+  "displayName": "StaqReactNative Example",
+  "expo": {
+    "name": "staq-react-native-example",
+    "slug": "staq-react-native-example",
+    "description": "Example app for staq-react-native",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
